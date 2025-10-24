@@ -4,7 +4,7 @@ Here you’ll find links to my projects developed over the years, mostly games c
 
 ## 🕹️ Game Projects
 - [2DPlaftormCoopGame](https://github.com/WarriorSKMarek/PlaftformLocalCoopGame) – 2D Plaftorm local co-op game in Unreal Engine 5 using C++ scripting.
-- [2.5DAdventureGame]([https://github.com/WarriorSKMarek/PlaftformLocalCoopGame](https://github.com/WarriorSKMarek/2.5DAdventureGame)) – 2.5D Adventure game in Unity using C# scripting.
+- [2.5DAdventureGame](https://github.com/WarriorSKMarek/2.5DAdventureGame) – 2.5D Adventure game in Unity using C# scripting.
 
 ## 💻 Other Projects
 - [RayTracer](https://github.com/WarriorSKMarek/RayTracer) – Ray Tracer developed in C# with assistance from ChatGPT.
